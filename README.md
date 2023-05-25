@@ -4,3 +4,4 @@ Each branch represents a snapshot of the codebase during this multi-step livecod
 - `day-one-exercise-one`: app creation, garden model scaffold and seed
 - `day-one-exercise-two`: plant model
 - `day-two`: tag model & JavaScript
+# gardens_and_plants
